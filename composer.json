@@ -1,0 +1,10 @@
+{
+    "name": "admin/cloud-computing",
+    "authors": [
+        {
+            "name": "BuiTienDat",
+            "email": "datxuhp94@gmail.com"
+        }
+    ],
+    "require": {}
+}
