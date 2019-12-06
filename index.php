@@ -44,6 +44,10 @@ if(isset($_POST['but_submit'])){
                     <div>
                         <input type="submit" value="Submit" name="but_submit" id="but_submit" />
                     </div>
+                    <div>
+                    <span>Remember</span>
+                        <input type="checkbox" />
+                    </div>
                 </div>
             </form>
         </div>
