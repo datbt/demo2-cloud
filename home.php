@@ -22,6 +22,7 @@ if(isset($_POST['but_logout'])){
         <form method='post' action="">
             <input type="submit" value="Logout" name="but_logout">
         </form>
+		//test
         <div class="body-background">
         </div>
     </body>
